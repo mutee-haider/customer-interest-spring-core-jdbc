@@ -95,6 +95,6 @@ CREATE TABLE `realtimedi_customer` (
 ## 👤 Author
 
 **Muhammad Mutee Haider**  
-📧 Email: mutee.dev@gmail.com.com  
+📧 Email: mutee.dev@gmail.com 
 🔗 [LinkedIn](www.linkedin.com/in/muhammad-mutee-haider-21a910369)  
 💻 [GitHub](https://github.com/mutee-haider)
